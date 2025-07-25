@@ -1,2 +1,14 @@
-# ANJI-CHINESE-FAST-FOOD-AND-PAROTTA
-A visually stunning, fully responsive, and interactive 3D menu card for "ANJI Chinese Fast Food &amp; Parotta". This project is built with modern web technologies to create a delightful user experience, running directly in the browser with no build tools required.
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
